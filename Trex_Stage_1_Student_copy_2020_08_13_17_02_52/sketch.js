@@ -147,4 +147,4 @@ score=0;
 obstaclegroup.destroyEach();
 Cloudsgroup.destroyEach();
 trex.changeAnimation("running",trexrunning);  
-} 
+}  
